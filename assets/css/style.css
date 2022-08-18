@@ -1,9 +1,10 @@
+/* Universal Selector */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* Element Selectors */
 body {
     background-color: #d9dcd6;
 }
@@ -50,6 +51,7 @@ p {
     font-size: 16px;
 }
 
+/* Class Selectors */
 .hero {
     height: 800px;
     width: 100%;
@@ -198,3 +200,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* ID Selectors */
