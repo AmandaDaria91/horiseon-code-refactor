@@ -138,6 +138,7 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+/* changed from h2 to h4 for descending header order */
+.footer h4 {
     font-size: 20px;
 }
