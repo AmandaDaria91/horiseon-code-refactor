@@ -25,11 +25,11 @@ No installation or authentication required to view the webpage.
 
 [Link to deployed site](https://amandadaria91.github.io/horiseon-code-refactor/)
 
-![This is a screenshot of the top portion of the Horiseon webpage.](assets\images\horiseon-screenshot-1.jpg)
+![This is a screenshot of the top portion of the Horiseon webpage.](assets/images/horiseon-screenshot-1.jpg)
 
-![This is a screenshot of the middle portion of the Horiseon webpage.](assets\images\horiseon-screenshot-2.jpg)
+![This is a screenshot of the middle portion of the Horiseon webpage.](assets/images/horiseon-screenshot-2.jpg)
 
-![This is a screenshot of the bottom portion of the Horiseon webpage.](assets\images\horiseon-screenshot-3.jpg)
+![This is a screenshot of the bottom portion of the Horiseon webpage.](assets/images/horiseon-screenshot-3.jpg)
 
 
 ## Credits
