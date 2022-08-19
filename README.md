@@ -17,7 +17,7 @@ A more accessible refactor of existing code for a webpage. The code has been res
 - [Credits](#credits)
 - [License](#license)
 - [Badges](#badges)
-- [Features](#features)
+
 
 ## Installation
 
