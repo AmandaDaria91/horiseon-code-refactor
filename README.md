@@ -3,7 +3,7 @@
 
 ## Description
 
-A more accessible refactor of existing code for a webpage 
+A more accessible refactor of existing code for a webpage. The code has been restructured using semenatic elements. It has been reorganized using selectors to eliminate redundancy. There has been alt text added to ensure accessibility can be achieved for those useing assisted learning devices. The code was also cleaned up to ensure it's efficiency. 
 
 - My motivation for this project was to build a webpage that was more accessible to ensure it could be accessed using assisted learning devices so those with disabilities can also enjoy the webpage.
 - I built this project because I believe that everyone should be able to access this webpage.
@@ -16,6 +16,8 @@ A more accessible refactor of existing code for a webpage
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [Badges](#badges)
+- [Features](#features)
 
 ## Installation
 
@@ -44,6 +46,8 @@ I used an [MIT License](LICENSE).
 ## Badges
 
 ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
+
+
 
 
 
